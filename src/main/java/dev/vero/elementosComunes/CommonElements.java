@@ -2,6 +2,11 @@ package dev.vero.elementosComunes;
 
 import java.util.ArrayList;
 
+// Elementos comunes
+
+// Enunciado:
+// Desarrollar un programa que busque elementos comunes en dos arrays de enteros.
+
 public class CommonElements {
 
     public ArrayList<Integer> findCommonElements(ArrayList<Integer> list1, ArrayList<Integer> list2) {
