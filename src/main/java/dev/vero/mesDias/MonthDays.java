@@ -3,6 +3,13 @@ package dev.vero.mesDias;
 import java.util.Calendar;
 import java.util.Scanner;
 
+
+// Meses y días
+
+// Enunciado:
+// Hacer un programa que, dado el número de un mes (1,2,3,4…12), presente el nombre del mes y determine la cantidad de días que tiene.
+
+
 public class MonthDays {
     private static final String[] MONTH_NAMES = {
             "January", "February", "March", "April", "May", "June",
